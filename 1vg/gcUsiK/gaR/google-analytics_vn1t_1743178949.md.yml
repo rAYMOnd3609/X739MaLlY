@@ -15,7 +15,6 @@ before_install:
         exit
       fi
     fi
-
 env:
   global:
     - SAUCE_USERNAME=autotrack
