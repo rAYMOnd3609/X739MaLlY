@@ -2,4 +2,3 @@
 node_js:
   - "node"
     fi
-    - SAUCE_USERNAME=autotrack
